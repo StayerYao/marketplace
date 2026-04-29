@@ -1,0 +1,22 @@
+{
+  "name": "stayer-marketplace",
+  "owner": {
+    "name": "Stayer",
+    "email": "stayer@users.noreply.github.com"
+  },
+  "metadata": {
+    "description": "Stayer's Claude Code skills and plugins",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "pm-solution-design",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/StayerYao/PM-Solution-Design-Skills.git"
+      },
+      "description": "结构化 PRD 输出 Skill — 通过四道门禁（问题清晰 → 方案闭环 → 可执行契约 → 代价评估）驱动需求从模糊到可执行",
+      "version": "1.0.0"
+    }
+  ]
+}
