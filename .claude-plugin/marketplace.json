@@ -17,6 +17,15 @@
       },
       "description": "结构化 PRD 输出 Skill — 通过四道门禁（问题清晰 → 方案闭环 → 可执行契约 → 代价评估）驱动需求从模糊到可执行",
       "version": "1.1.0"
+    },
+    {
+      "name": "chinese-writing-style-guide",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/StayerYao/Chinese-Writing-Style-Guide.git"
+      },
+      "description": "中文写作风格指南 Skill — 消除翻译腔，让中文表达地道、简洁、有力",
+      "version": "1.0.0"
     }
   ]
 }
