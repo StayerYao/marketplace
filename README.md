@@ -28,6 +28,8 @@ Stayer 的 Claude Code 技能和插件集合。
 
 **仓库：** https://github.com/StayerYao/PM-Solution-Design-Skills
 
+**当前版本：** v1.3.5 — 系统性设计与业务对象边界优化
+
 ## License
 
 MIT
